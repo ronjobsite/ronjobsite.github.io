@@ -2610,6 +2610,10 @@ input, select, textarea {
 		text-align: center;
 		top: 0;
 		width: 35%;
+		border-style: solid;
+		border-color: #000;
+		border-width: 0.5em 0 0.5em 0.5em;
+		
 	}
 
 		#header > * {
