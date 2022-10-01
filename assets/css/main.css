@@ -98,7 +98,7 @@ input, select, textarea {
 		}
 
 	body, input, select, textarea {
-		color: #a2a2a2;
+		color: #000;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -131,14 +131,18 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 2em 0 2em 0;
+	}
+	
+	h1, h2, h3 {
+		font-family: Impact, fantasy;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #787878;
+		color: #000;
 		font-weight: 400;
 		line-height: 1em;
-		margin: 0 0 1em 0;
+		margin: 0 0 0em 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -196,6 +200,7 @@ input, select, textarea {
 
 		hr.major {
 			margin: 3em 0;
+			font-family: Impact, fantasy;
 		}
 
 	blockquote {
@@ -1791,7 +1796,8 @@ input, select, textarea {
 	}
 
 	header.major h2 {
-		font-size: 2em;
+		font-size: 3em;
+		font-family: Impact, fantasy;
 	}
 
 /* Form */
@@ -2591,18 +2597,17 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #1f1815;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg.jpg");
-		background-position: top left,							top left;
-		background-repeat: repeat,								no-repeat;
-		background-size: auto,								150%;
+		background-image: url("../../images/jcskyline.svg");
+		background-position: bottom center;
+		background-repeat: no-repeat;
+		background-size: 100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
 		padding: 8em 4em;
 		position: fixed;
-		text-align: right;
+		text-align: center;
 		top: 0;
 		width: 35%;
 	}
@@ -2621,21 +2626,23 @@ input, select, textarea {
 			-ms-flex-grow: 1;
 			flex-grow: 1;
 			margin: 0 0 2em 0;
+			font-family: Impact, fantasy;
 		}
 
 		#header strong, #header b {
-			color: #ffffff;
+			color: #000;
 		}
 
 		#header h2, #header h3, #header h4, #header h5, #header h6 {
-			color: #ffffff;
+			color: rgba(150, 150, 150, 1);
+			margin: 1em 0;
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
-			font-size: 1.35em;
-			line-height: 1.75em;
+			color: #000;
+			font-size: 2.4em;
 			margin: 0;
+			line-height: normal;
 		}
 
 		#header .image.avatar {
@@ -2686,6 +2693,9 @@ input, select, textarea {
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
 		width: calc(100% - 35%);
+		border-style: solid;
+		border-color: #000;
+		border-width: 0 0 0 0.5em;
 	}
 
 		#main > section {
@@ -3142,6 +3152,7 @@ input, select, textarea {
 
 			header.major h2 {
 				font-size: 1.35em;
+				font-family: Impact, fantasy;
 			}
 
 		/* List */
