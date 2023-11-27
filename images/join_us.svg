@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.6777096mm"
+   height="2.6808403mm"
+   viewBox="0 0 8.6777096 2.6808403"
+   version="1.1"
+   id="svg29136"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="join_us.svg">
+  <defs
+     id="defs29130" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="1.8584389"
+     inkscape:cy="-85.618225"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata29133">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(161.48753,-66.600518)">
+    <text
+       id="text12943-6-4"
+       y="69.259384"
+       x="-161.48753"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.66235018px;line-height:1.25;font-family:'Ombudsman Stencil';-inkscape-font-specification:'Ombudsman Stencil';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.09155875;"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.09155875;fill:#ffffff;fill-opacity:1;"
+         y="69.259384"
+         x="-161.48753"
+         id="tspan12941-58-8"
+         sodipodi:role="line">JOIN US</tspan></text>
+  </g>
+</svg>
